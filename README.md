@@ -1,4 +1,3 @@
-```markdown
 # Automated MLOps Training Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
@@ -74,6 +73,4 @@ Training model...
 * **Artifact Management:** Separating code (Git) from binary models (S3).
 * **CI/CD for ML:** Understanding that data changes trigger pipelines just like code changes do.
 
-```
 
-***
