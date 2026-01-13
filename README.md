@@ -19,8 +19,6 @@ It automatically performs the following steps:
 ## 🏗 Architecture
 The pipeline follows the "Train-Validate-Register" pattern used in enterprise AI teams.
 
-![MLOps Architecture Diagram](architecture-diagram.png)
-*(Note: Generate this diagram using the Mermaid code below)*
 
 ## ⚙️ Technical Highlights
 * **Containerization:** The `Dockerfile` ensures the training environment is identical every time, eliminating "it works on my machine" issues.
